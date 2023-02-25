@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+}
+
+.block1 {
+    background-color: blue;
+    height: 300px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+
+}
+.block1 img{
+    height: 200px;
+    width: 200px;
+}
+.block1 p{
+    color: aliceblue;
+}
+
+
+.block2 {
+    background-color: darkgreen;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+.block2 img{
+    height: 200px;
+    width: 300px;
+
+}
+.block2 p {
+    color: antiquewhite;
+}
+
+.block3 {
+     background-color: blueviolet;
+     height: 300px;
+     margin: 20px;
+     padding: 20px;
+
+}
+.block3 img {
+    height: 200px;
+    width: 300px;
+}
+.block3 p{
+    color: aliceblue;
+
+}
+
+.block4{
+    border: 2px solid black;
+    height: 50px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+
+}
+.block4 img {
+    height: 50px;
+    width: 50px;
+}
+
+#instagram{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
