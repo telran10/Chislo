@@ -1,0 +1,15 @@
+table{
+    border: 1px solid black;
+}
+img{
+    width: 30px;
+    height: 30px;
+    
+}
+td{
+    border: 1px solid black;
+    
+}
+th{
+    border: 1px solid black;
+}
